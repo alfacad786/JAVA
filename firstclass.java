@@ -85,7 +85,7 @@ class firstclass {
                         
 
                         // System.out.println((float)((r*f)/(r+f)+(r-f))); 
-                        // galat sintex likhi hai flotat ko 1 hi braket mai formula ke shath likhna hoga yaha ((float)   ((r*f)/(r+f)+(r-f))  ) likh kar vapas braket me formula likhi hai is trha braket mai 2 braket bane hai 1 float ka or 1 puri formula ka is liye java defult seting use karega float istemal nahi hota
+                        // galat sintex likhi hai float ko 1 hi braket mai formula ke shath likhna hoga yaha ((float)   ((r*f)/(r+f)+(r-f))  ) likh kar vapas braket me formula likhi hai is trha braket mai 2 braket bane hai 1 float ka or 1 puri formula ka is liye java defult seting use karega float istemal nahi hota
 
                         break;
 
